@@ -1,3 +1,10 @@
 .text-mycolor{
-    color: #ADFF2F;
+    color: #191970  ;
+}
+.myfont{
+    font-style: oblique;
+    font-family: initial;        
+}
+.m-my{
+    margin-bottom: 2rem !important;
 }
